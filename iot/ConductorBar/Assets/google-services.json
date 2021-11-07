@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275175404",
+    "firebase_url": "https://app-test-a4johnny.firebaseio.com",
+    "project_id": "app-test-a4johnny",
+    "storage_bucket": "app-test-a4johnny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275175404:android:94b16328ec09a02e2712c9",
+        "android_client_info": {
+          "package_name": "com.y.ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275175404-172lq196m9ft91ns5cb2thm449rp5qk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoZ_ekYUWxpPA0pQU4-rUqXLf7nhhrtIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275175404-172lq196m9ft91ns5cb2thm449rp5qk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
